@@ -1,0 +1,1008 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/chemotherapy-medication-trimopan---primary.py
+inputModule3:
+  class: File
+  path: python/chemotherapy-medication-20000---primary.py
+inputModule4:
+  class: File
+  path: python/chemotherapy-medication-starter---primary.py
+inputModule5:
+  class: File
+  path: python/chemotherapy-medication-epanutin---primary.py
+inputModule6:
+  class: File
+  path: python/chemotherapy-medication-180mg---primary.py
+inputModule7:
+  class: File
+  path: python/chemotherapy-medication-carboplatin---primary.py
+inputModule8:
+  class: File
+  path: python/chemotherapy-medication-pyrimethamine---primary.py
+inputModule9:
+  class: File
+  path: python/chemotherapy-medication-750mg---primary.py
+inputModule10:
+  class: File
+  path: python/chemotherapy-medication-015ml---primary.py
+inputModule11:
+  class: File
+  path: python/neoral-chemotherapy-medication---primary.py
+inputModule12:
+  class: File
+  path: python/chemotherapy-medication-undecanoate---primary.py
+inputModule13:
+  class: File
+  path: python/chemotherapy-medication-methylprednisolone---primary.py
+inputModule14:
+  class: File
+  path: python/chemotherapy-medication-375mg---primary.py
+inputModule15:
+  class: File
+  path: python/chemotherapy-medication-224mg---primary.py
+inputModule16:
+  class: File
+  path: python/chemotherapy-medication-dolmatil---primary.py
+inputModule17:
+  class: File
+  path: python/chemotherapy-medication-amdipharm---primary.py
+inputModule18:
+  class: File
+  path: python/chemotherapy-medication-solumedrone---primary.py
+inputModule19:
+  class: File
+  path: python/chemotherapy-medication-phenytoin---primary.py
+inputModule20:
+  class: File
+  path: python/chemotherapy-medication-endoxana---primary.py
+inputModule21:
+  class: File
+  path: python/chemotherapy-medication-bactrim---primary.py
+inputModule22:
+  class: File
+  path: python/chemotherapy-medication-cortistab---primary.py
+inputModule23:
+  class: File
+  path: python/chemotherapy-medication-injection---primary.py
+inputModule24:
+  class: File
+  path: python/chemotherapy-medication-malate---primary.py
+inputModule25:
+  class: File
+  path: python/chemotherapy-medication-130microgram---primary.py
+inputModule26:
+  class: File
+  path: python/chemotherapy-medication-palmitate---primary.py
+inputModule27:
+  class: File
+  path: python/chemotherapy-medication-120mg---primary.py
+inputModule28:
+  class: File
+  path: python/valproic-chemotherapy-medication---primary.py
+inputModule29:
+  class: File
+  path: python/chemotherapy-medication-hexacetonide---primary.py
+inputModule30:
+  class: File
+  path: python/chemotherapy-medication-tablet---primary.py
+inputModule31:
+  class: File
+  path: python/chemotherapy-medication-100000---primary.py
+inputModule32:
+  class: File
+  path: python/chemotherapy-medication-mitomycin---primary.py
+inputModule33:
+  class: File
+  path: python/chemotherapy-medication-peginterferon---primary.py
+inputModule34:
+  class: File
+  path: python/chemotherapy-medication-140mg---primary.py
+inputModule35:
+  class: File
+  path: python/chemotherapy-medication-trifluoperazine---primary.py
+inputModule36:
+  class: File
+  path: python/chemotherapy-medication-melleril---primary.py
+inputModule37:
+  class: File
+  path: python/risperdal-chemotherapy-medication---primary.py
+inputModule38:
+  class: File
+  path: python/dispersible-chemotherapy-medication---primary.py
+inputModule39:
+  class: File
+  path: python/chemotherapy-medication-50000---primary.py
+inputModule40:
+  class: File
+  path: python/chemotherapy-medication-thioridazine---primary.py
+inputModule41:
+  class: File
+  path: python/chemotherapy-medication-distamine---primary.py
+inputModule42:
+  class: File
+  path: python/chemotherapy-medication-cambridge---primary.py
+inputModule43:
+  class: File
+  path: python/chemotherapy-medication-clopixol---primary.py
+inputModule44:
+  class: File
+  path: python/chemotherapy-medication-triptafen---primary.py
+inputModule45:
+  class: File
+  path: python/chemotherapy-medication-1000mg---primary.py
+inputModule46:
+  class: File
+  path: python/chemotherapy-medication-sterile---primary.py
+inputModule47:
+  class: File
+  path: python/chemotherapy-medication-copharma---primary.py
+inputModule48:
+  class: File
+  path: python/intravenous-chemotherapy-medication---primary.py
+inputModule49:
+  class: File
+  path: python/chemotherapy-medication-piportil---primary.py
+inputModule50:
+  class: File
+  path: python/chemotherapy-medication-glaxo---primary.py
+inputModule51:
+  class: File
+  path: python/chemotherapy-medication-precortisyl---primary.py
+inputModule52:
+  class: File
+  path: python/chemotherapy-medication-succinate---primary.py
+inputModule53:
+  class: File
+  path: python/chemotherapy-medication-remoxipride---primary.py
+inputModule54:
+  class: File
+  path: python/chemotherapy-medication-olanzapine---primary.py
+inputModule55:
+  class: File
+  path: python/chemotherapy-medication-virormone---primary.py
+inputModule56:
+  class: File
+  path: python/chemotherapy-medication-enanthate---primary.py
+inputModule57:
+  class: File
+  path: python/chemotherapy-medication-sunitinib---primary.py
+inputModule58:
+  class: File
+  path: python/chemotherapy-medication-schering---primary.py
+inputModule59:
+  class: File
+  path: python/chemotherapy-medication-loxapine---primary.py
+inputModule60:
+  class: File
+  path: python/chemotherapy-medication-alfan1---primary.py
+inputModule61:
+  class: File
+  path: python/chemotherapy-medication-dihydrochloride---primary.py
+inputModule62:
+  class: File
+  path: python/chemotherapy-medication-betamethasone---primary.py
+inputModule63:
+  class: File
+  path: python/chemotherapy-medication-dexamethasone---primary.py
+inputModule64:
+  class: File
+  path: python/chemotherapy-medication-40000---primary.py
+inputModule65:
+  class: File
+  path: python/chemotherapy-medication-sugarfree---primary.py
+inputModule66:
+  class: File
+  path: python/chemotherapy-medication-30000---primary.py
+inputModule67:
+  class: File
+  path: python/chemotherapy-medication-nivaquine---primary.py
+inputModule68:
+  class: File
+  path: python/chemotherapy-medication-hydrocortone---primary.py
+inputModule69:
+  class: File
+  path: python/chemotherapy-medication-stelazine---primary.py
+inputModule70:
+  class: File
+  path: python/chemotherapy-medication-risperidone---primary.py
+inputModule71:
+  class: File
+  path: python/chemotherapy-medication-125mg---primary.py
+inputModule72:
+  class: File
+  path: python/chemotherapy-medication-azathioprine---primary.py
+inputModule73:
+  class: File
+  path: python/chemotherapy-medication-solvay---primary.py
+inputModule74:
+  class: File
+  path: python/chemotherapy-medication-droleptan---primary.py
+inputModule75:
+  class: File
+  path: python/chemotherapy-medication-maxtrex---primary.py
+inputModule76:
+  class: File
+  path: python/chemotherapy-medication-serenace---primary.py
+inputModule77:
+  class: File
+  path: python/chemotherapy-medication-astella---primary.py
+inputModule78:
+  class: File
+  path: python/chemotherapy-medication-septrin---primary.py
+inputModule79:
+  class: File
+  path: python/chemotherapy-medication-sandimmun---primary.py
+inputModule80:
+  class: File
+  path: python/chemotherapy-medication-zidovudine---primary.py
+inputModule81:
+  class: File
+  path: python/chemotherapy-medication-roferon---primary.py
+inputModule82:
+  class: File
+  path: python/chemotherapy-medication-zyprexa---primary.py
+inputModule83:
+  class: File
+  path: python/chemotherapy-medication-velotab---primary.py
+inputModule84:
+  class: File
+  path: python/chemotherapy-medication-adcortyl---primary.py
+inputModule85:
+  class: File
+  path: python/chemotherapy-medication-methyltestosterone---primary.py
+inputModule86:
+  class: File
+  path: python/chemotherapy-medication-clozaril---primary.py
+inputModule87:
+  class: File
+  path: python/chemotherapy-medication-depixol---primary.py
+inputModule88:
+  class: File
+  path: python/chemotherapy-medication-60000---primary.py
+inputModule89:
+  class: File
+  path: python/chemotherapy-medication-leukeran---primary.py
+inputModule90:
+  class: File
+  path: python/chemotherapy-medication-mesilate---primary.py
+inputModule91:
+  class: File
+  path: python/chemotherapy-medication-paclitaxel---primary.py
+inputModule92:
+  class: File
+  path: python/chemotherapy-medication-viraferonpeg---primary.py
+inputModule93:
+  class: File
+  path: python/chemotherapy-medication-800mg---primary.py
+inputModule94:
+  class: File
+  path: python/chemotherapy-medication-consta---primary.py
+inputModule95:
+  class: File
+  path: python/chemotherapy-medication-seroquel---primary.py
+inputModule96:
+  class: File
+  path: python/chemotherapy-medication-abilify---primary.py
+inputModule97:
+  class: File
+  path: python/ipral-chemotherapy-medication---primary.py
+inputModule98:
+  class: File
+  path: python/chemotherapy-medication-droperidol---primary.py
+inputModule99:
+  class: File
+  path: python/chemotherapy-medication-levomepromazine---primary.py
+inputModule100:
+  class: File
+  path: python/chemotherapy-medication-maleate---primary.py
+inputModule101:
+  class: File
+  path: python/chemotherapy-medication-pericyazine---primary.py
+inputModule102:
+  class: File
+  path: python/chemotherapy-medication-gelatin---primary.py
+inputModule103:
+  class: File
+  path: python/chemotherapy-medication-pharm---primary.py
+inputModule104:
+  class: File
+  path: python/chemotherapy-medication-ribavirin---primary.py
+inputModule105:
+  class: File
+  path: python/chemotherapy-medication-etanercept---primary.py
+inputModule106:
+  class: File
+  path: python/chemotherapy-medication-quicklet---primary.py
+inputModule107:
+  class: File
+  path: python/chemotherapy-medication-ciclosporin---primary.py
+inputModule108:
+  class: File
+  path: python/chemotherapy-medication-cyclophosphamide---primary.py
+inputModule109:
+  class: File
+  path: python/chemotherapy-medication-taxol---primary.py
+inputModule110:
+  class: File
+  path: python/chemotherapy-medication-roxiam---primary.py
+inputModule111:
+  class: File
+  path: python/chemotherapy-medication-amitriptyline---primary.py
+inputModule112:
+  class: File
+  path: python/chemotherapy-medication-arava---primary.py
+inputModule113:
+  class: File
+  path: python/chemotherapy-medication-methotrexate---primary.py
+inputModule114:
+  class: File
+  path: python/chemotherapy-medication-aripiprazole---primary.py
+inputModule115:
+  class: File
+  path: python/chemotherapy-medication-400mg---primary.py
+inputModule116:
+  class: File
+  path: python/chemotherapy-medication-vancocin---primary.py
+inputModule117:
+  class: File
+  path: python/chemotherapy-medication-44microgram---primary.py
+inputModule118:
+  class: File
+  path: python/chemotherapy-medication-cellcept---primary.py
+inputModule119:
+  class: File
+  path: python/chemotherapy-medication-melphalan---primary.py
+inputModule120:
+  class: File
+  path: python/buccal-chemotherapy-medication---primary.py
+inputModule121:
+  class: File
+  path: python/chemotherapy-medication-sertindole---primary.py
+inputModule122:
+  class: File
+  path: python/chemotherapy-medication-vancomycin---primary.py
+inputModule123:
+  class: File
+  path: python/chemotherapy-medication-acetate---primary.py
+inputModule124:
+  class: File
+  path: python/chemotherapy-medication-carbimazole---primary.py
+inputModule125:
+  class: File
+  path: python/chemotherapy-medication-orlept---primary.py
+inputModule126:
+  class: File
+  path: python/chemotherapy-medication-chloractil---primary.py
+inputModule127:
+  class: File
+  path: python/chemotherapy-medication-spansule---primary.py
+inputModule128:
+  class: File
+  path: python/chemotherapy-medication-deflazacort---primary.py
+inputModule129:
+  class: File
+  path: python/chemotherapy-medication-zotepine---primary.py
+inputModule130:
+  class: File
+  path: python/chemotherapy-medication-vertigon---primary.py
+inputModule131:
+  class: File
+  path: python/chemotherapy-medication-xeloda---primary.py
+inputModule132:
+  class: File
+  path: python/chemotherapy-medication-fluorouracil---primary.py
+inputModule133:
+  class: File
+  path: python/chemotherapy-medication-dacarbazine---primary.py
+inputModule134:
+  class: File
+  path: python/chemotherapy-medication-fludarabine---primary.py
+inputModule135:
+  class: File
+  path: python/chemotherapy-medication-lamivudine---primary.py
+inputModule136:
+  class: File
+  path: python/chemotherapy-medication-deltastab---primary.py
+inputModule137:
+  class: File
+  path: python/chemotherapy-medication-etoposide---primary.py
+inputModule138:
+  class: File
+  path: python/chemotherapy-medication-capsule---primary.py
+inputModule139:
+  class: File
+  path: python/chemotherapy-medication-convulex---primary.py
+inputModule140:
+  class: File
+  path: python/chemotherapy-medication-vincristine---primary.py
+inputModule141:
+  class: File
+  path: python/chemotherapy-medication-oxypertine---primary.py
+inputModule142:
+  class: File
+  path: python/chemotherapy-medication-rhone---primary.py
+inputModule143:
+  class: File
+  path: python/chemotherapy-medication-prednisone---primary.py
+inputModule144:
+  class: File
+  path: python/chemotherapy-medication-betnesol---primary.py
+inputModule145:
+  class: File
+  path: python/chemotherapy-medication-suppository---primary.py
+inputModule146:
+  class: File
+  path: python/chemotherapy-medication-triamcinolone---primary.py
+inputModule147:
+  class: File
+  path: python/chemotherapy-medication-mercaptopurine---primary.py
+inputModule148:
+  class: File
+  path: python/chemotherapy-medication-epilim---primary.py
+inputModule149:
+  class: File
+  path: python/chemotherapy-medication-sirolimu---primary.py
+inputModule150:
+  class: File
+  path: python/chemotherapy-medication-viatri---primary.py
+inputModule151:
+  class: File
+  path: python/chemotherapy-medication-oradexonorganon---primary.py
+inputModule152:
+  class: File
+  path: python/chemotherapy-medication-shire---primary.py
+inputModule153:
+  class: File
+  path: python/chemotherapy-medication-mesna---primary.py
+inputModule154:
+  class: File
+  path: python/chemotherapy-medication-sulfasalazine---primary.py
+inputModule155:
+  class: File
+  path: python/chemotherapy-medication-goldshield---primary.py
+inputModule156:
+  class: File
+  path: python/chemotherapy-medication-triperidol---primary.py
+inputModule157:
+  class: File
+  path: python/chemotherapy-medication-health---primary.py
+inputModule158:
+  class: File
+  path: python/chemotherapy-medication-eprex---primary.py
+inputModule159:
+  class: File
+  path: python/linezolid-chemotherapy-medication---primary.py
+inputModule160:
+  class: File
+  path: python/chemotherapy-medication-denfleet---primary.py
+inputModule161:
+  class: File
+  path: python/chemotherapy-medication-temozolomide---primary.py
+inputModule162:
+  class: File
+  path: python/chemotherapy-medication-imatinib---primary.py
+inputModule163:
+  class: File
+  path: python/chemotherapy-medication-glivec---primary.py
+inputModule164:
+  class: File
+  path: python/chemotherapy-medication-sulpiride---primary.py
+inputModule165:
+  class: File
+  path: python/chemotherapy-medication-retrovir---primary.py
+inputModule166:
+  class: File
+  path: python/chemotherapy-medication-depakote---primary.py
+inputModule167:
+  class: File
+  path: python/chemotherapy-medication-folinate---primary.py
+inputModule168:
+  class: File
+  path: python/chemotherapy-medication-200microgram---primary.py
+inputModule169:
+  class: File
+  path: python/chemotherapy-medication-pentran---primary.py
+inputModule170:
+  class: File
+  path: python/chemotherapy-medication-promazine---primary.py
+inputModule171:
+  class: File
+  path: python/chemotherapy-medication-trifluperidol---primary.py
+inputModule172:
+  class: File
+  path: python/chemotherapy-medication-cortisone---primary.py
+inputModule173:
+  class: File
+  path: python/chemotherapy-medication-rosemont---primary.py
+inputModule174:
+  class: File
+  path: python/chemotherapy-medication-serdolect---primary.py
+inputModule175:
+  class: File
+  path: python/chemotherapy-medication-alkeran---primary.py
+inputModule176:
+  class: File
+  path: python/enteric-chemotherapy-medication---primary.py
+inputModule177:
+  class: File
+  path: python/chemotherapy-medication-hoechstmar---primary.py
+inputModule178:
+  class: File
+  path: python/chemotherapy-medication-haldol---primary.py
+inputModule179:
+  class: File
+  path: python/chemotherapy-medication-taxotere---primary.py
+inputModule180:
+  class: File
+  path: python/chemotherapy-medication-treosulfan---primary.py
+inputModule181:
+  class: File
+  path: python/chemotherapy-medication-squibb---primary.py
+inputModule182:
+  class: File
+  path: python/chemotherapy-medication-morson---primary.py
+inputModule183:
+  class: File
+  path: python/chemotherapy-medication-trimogal---primary.py
+inputModule184:
+  class: File
+  path: python/chemotherapy-medication-forte---primary.py
+inputModule185:
+  class: File
+  path: python/chemotherapy-medication-pimozide---primary.py
+inputModule186:
+  class: File
+  path: python/chemotherapy-medication-tranylcypromine---primary.py
+inputModule187:
+  class: File
+  path: python/chemotherapy-medication-tarceva---primary.py
+inputModule188:
+  class: File
+  path: python/chemotherapy-medication-syraprim---primary.py
+inputModule189:
+  class: File
+  path: python/chemotherapy-medication-lundbeck---primary.py
+inputModule190:
+  class: File
+  path: python/chemotherapy-medication-15000---primary.py
+inputModule191:
+  class: File
+  path: python/chemotherapy-medication-concentrate---primary.py
+inputModule192:
+  class: File
+  path: python/chemotherapy-medication-360mg---primary.py
+inputModule193:
+  class: File
+  path: python/chemotherapy-medication-chlormethine---primary.py
+inputModule194:
+  class: File
+  path: python/chemotherapy-medication-efcortesol---primary.py
+inputModule195:
+  class: File
+  path: python/chemotherapy-medication-shock---primary.py
+inputModule196:
+  class: File
+  path: python/chemotherapy-medication-myleran---primary.py
+inputModule197:
+  class: File
+  path: python/solian-chemotherapy-medication---primary.py
+inputModule198:
+  class: File
+  path: python/chemotherapy-medication-adriamycin---primary.py
+inputModule199:
+  class: File
+  path: python/chemotherapy-medication-sustanon---primary.py
+inputModule200:
+  class: File
+  path: python/chemotherapy-medication-doxorubicin---primary.py
+inputModule201:
+  class: File
+  path: python/chemotherapy-medication-calcium---primary.py
+inputModule202:
+  class: File
+  path: python/chemotherapy-medication-janssen---primary.py
+inputModule203:
+  class: File
+  path: python/chemotherapy-medication-integrin---primary.py
+inputModule204:
+  class: File
+  path: python/chemotherapy-medication-lilly---primary.py
+inputModule205:
+  class: File
+  path: python/chemotherapy-medication-hillcross---primary.py
+inputModule206:
+  class: File
+  path: python/myfortic-chemotherapy-medication---primary.py
+inputModule207:
+  class: File
+  path: python/chemotherapy-medication-150mg---primary.py
+inputModule208:
+  class: File
+  path: python/chemotherapy-medication-oxaliplatin---primary.py
+inputModule209:
+  class: File
+  path: python/chemotherapy-medication-flynn---primary.py
+inputModule210:
+  class: File
+  path: python/chemotherapy-medication-alitretinoin---primary.py
+inputModule211:
+  class: File
+  path: python/chemotherapy-medication-laratrim---primary.py
+inputModule212:
+  class: File
+  path: python/chemotherapy-medication-hawgreen---primary.py
+inputModule213:
+  class: File
+  path: python/chemotherapy-medication-roche---primary.py
+inputModule214:
+  class: File
+  path: python/chemotherapy-medication-instillation---primary.py
+inputModule215:
+  class: File
+  path: python/chemotherapy-medication-refolinon---primary.py
+inputModule216:
+  class: File
+  path: python/chemotherapy-medication-myocrisin---primary.py
+inputModule217:
+  class: File
+  path: python/chemotherapy-medication-cisplatin---primary.py
+inputModule218:
+  class: File
+  path: python/chemotherapy-medication-tacrolimu---primary.py
+inputModule219:
+  class: File
+  path: python/chemotherapy-medication-rituximab---primary.py
+inputModule220:
+  class: File
+  path: python/dozic-chemotherapy-medication---primary.py
+inputModule221:
+  class: File
+  path: python/chemotherapy-medication-500mg---primary.py
+inputModule222:
+  class: File
+  path: python/temodal-chemotherapy-medication---primary.py
+inputModule223:
+  class: File
+  path: python/vepesid-chemotherapy-medication---primary.py
+inputModule224:
+  class: File
+  path: python/chemotherapy-medication-pfizer---primary.py
+inputModule225:
+  class: File
+  path: python/chemotherapy-medication-kyowa---primary.py
+inputModule226:
+  class: File
+  path: python/chemotherapy-medication-orion---primary.py
+inputModule227:
+  class: File
+  path: python/chemotherapy-medication-imuran---primary.py
+inputModule228:
+  class: File
+  path: python/chemotherapy-medication-uromitexan---primary.py
+inputModule229:
+  class: File
+  path: python/chemotherapy-medication-300mg---primary.py
+inputModule230:
+  class: File
+  path: python/chemotherapy-medication-penicillamine---primary.py
+inputModule231:
+  class: File
+  path: python/chemotherapy-medication-controlled---primary.py
+inputModule232:
+  class: File
+  path: python/chemotherapy-medication-vinblastine---primary.py
+inputModule233:
+  class: File
+  path: python/chemotherapy-medication-trimethoprim---primary.py
+inputModule234:
+  class: File
+  path: python/chemotherapy-medication-idarubicin---primary.py
+inputModule235:
+  class: File
+  path: python/chemotherapy-medication-leucovorin---primary.py
+inputModule236:
+  class: File
+  path: python/chemotherapy-medication-acuphase---primary.py
+inputModule237:
+  class: File
+  path: python/chemotherapy-medication-genus---primary.py
+inputModule238:
+  class: File
+  path: python/chemotherapy-medication-mayne---primary.py
+inputModule239:
+  class: File
+  path: python/chemotherapy-medication-antigen---primary.py
+inputModule240:
+  class: File
+  path: python/chemotherapy-medication-copegu---primary.py
+inputModule241:
+  class: File
+  path: python/chemotherapy-medication-dumex---primary.py
+inputModule242:
+  class: File
+  path: python/chemotherapy-medication-067ml---primary.py
+inputModule243:
+  class: File
+  path: python/chemotherapy-medication-castlemead---primary.py
+inputModule244:
+  class: File
+  path: python/chemotherapy-medication-amgen---primary.py
+inputModule245:
+  class: File
+  path: python/chemotherapy-medication-vinorelbine---primary.py
+inputModule246:
+  class: File
+  path: python/chemotherapy-medication-haloperidol---primary.py
+inputModule247:
+  class: File
+  path: python/chemotherapy-medication-chanelle---primary.py
+inputModule248:
+  class: File
+  path: python/chemotherapy-medication-mitoxantrone---primary.py
+inputModule249:
+  class: File
+  path: python/chemotherapy-medication-cetuximab---primary.py
+inputModule250:
+  class: File
+  path: python/chemotherapy-medication-astrazenec---primary.py
+inputModule251:
+  class: File
+  path: python/chemotherapy-medication-naltrexone---primary.py
+inputModule252:
+  class: File
+  path: python/chemotherapy-medication-powder---primary.py
+inputModule253:
+  class: File
+  path: python/chemotherapy-medication-gemcitabine---primary.py
+inputModule254:
+  class: File
+  path: python/chemotherapy-medication-propylthiouracil---primary.py
+inputModule255:
+  class: File
+  path: python/chemotherapy-medication-modecate---primary.py
+inputModule256:
+  class: File
+  path: python/chemotherapy-medication-erlotinib---primary.py
+inputModule257:
+  class: File
+  path: python/chemotherapy-medication-cephalon---primary.py
+inputModule258:
+  class: File
+  path: python/chemotherapy-medication-dapsone---primary.py
+inputModule259:
+  class: File
+  path: python/chemotherapy-medication-valproate---primary.py
+inputModule260:
+  class: File
+  path: python/chemotherapy-medication-restandol---primary.py
+inputModule261:
+  class: File
+  path: python/chemotherapy-medication-actavis---primary.py
+inputModule262:
+  class: File
+  path: python/chemotherapy-medication-sterwin---primary.py
+inputModule263:
+  class: File
+  path: python/chemotherapy-medication-sandoz---primary.py
+inputModule264:
+  class: File
+  path: python/chemotherapy-medication-winthrop---primary.py
+inputModule265:
+  class: File
+  path: python/chemotherapy-medication-200mg---primary.py
+inputModule266:
+  class: File
+  path: python/chemotherapy-medication-episenta---primary.py
+inputModule267:
+  class: File
+  path: python/chemotherapy-medication-granule---primary.py
+inputModule268:
+  class: File
+  path: python/chemotherapy-medication-filgrastim---primary.py
+inputModule269:
+  class: File
+  path: python/chemotherapy-medication-dasatinib---primary.py
+inputModule270:
+  class: File
+  path: python/chemotherapy-medication-paliperidone---primary.py
+inputModule271:
+  class: File
+  path: python/chemotherapy-medication-exjade---primary.py
+inputModule272:
+  class: File
+  path: python/chemotherapy-medication-prograf---primary.py
+inputModule273:
+  class: File
+  path: python/chemotherapy-medication-docetaxel---primary.py
+inputModule274:
+  class: File
+  path: python/chemotherapy-medication-deferasirox---primary.py
+inputModule275:
+  class: File
+  path: python/chemotherapy-medication-prolonged---primary.py
+inputModule276:
+  class: File
+  path: python/chemotherapy-medication-phosphate---primary.py
+inputModule277:
+  class: File
+  path: python/chemotherapy-medication-advagraf---primary.py
+inputModule278:
+  class: File
+  path: python/chemotherapy-medication-bristol---primary.py
+inputModule279:
+  class: File
+  path: python/chemotherapy-medication-basiliximab---primary.py
+inputModule280:
+  class: File
+  path: python/chemotherapy-medication-chrono---primary.py
+inputModule281:
+  class: File
+  path: python/chemotherapy-medication-busulfan---primary.py
+inputModule282:
+  class: File
+  path: python/chemotherapy-medication-quetiapine---primary.py
+inputModule283:
+  class: File
+  path: python/chemotherapy-medication-600mg---primary.py
+inputModule284:
+  class: File
+  path: python/chemotherapy-medication-hydroxycarbamide---primary.py
+inputModule285:
+  class: File
+  path: python/chemotherapy-medication-isotretinoin---primary.py
+inputModule286:
+  class: File
+  path: python/chemotherapy-medication-roaccutane---primary.py
+inputModule287:
+  class: File
+  path: python/chemotherapy-medication-clozapine---primary.py
+inputModule288:
+  class: File
+  path: python/chemotherapy-medication-biorex---primary.py
+inputModule289:
+  class: File
+  path: python/chemotherapy-medication-250mg---primary.py
+inputModule290:
+  class: File
+  path: python/chemotherapy-medication-solution---primary.py
+inputModule291:
+  class: File
+  path: python/chemotherapy-medication---primary.py
+inputModule292:
+  class: File
+  path: python/chemotherapy-medication-calcort---primary.py
+inputModule293:
+  class: File
+  path: python/chemotherapy-medication-denzapine---primary.py
+inputModule294:
+  class: File
+  path: python/chemotherapy-medication-liquid---primary.py
+inputModule295:
+  class: File
+  path: python/crushable-chemotherapy-medication---primary.py
+inputModule296:
+  class: File
+  path: python/chemotherapy-medication-hydroxychloroquine---primary.py
+inputModule297:
+  class: File
+  path: python/chemotherapy-medication-mofetil---primary.py
+inputModule298:
+  class: File
+  path: python/chemotherapy-medication-nozinan---primary.py
+inputModule299:
+  class: File
+  path: python/chemotherapy-medication-sanofi---primary.py
+inputModule300:
+  class: File
+  path: python/chemotherapy-medication-leflunomide---primary.py
+inputModule301:
+  class: File
+  path: python/chemotherapy-medication-amisulpride---primary.py
+inputModule302:
+  class: File
+  path: python/chemotherapy-medication-fluphenazine---primary.py
+inputModule303:
+  class: File
+  path: python/chemotherapy-medication-deltacortril---primary.py
+inputModule304:
+  class: File
+  path: python/chemotherapy-medication-moditen---primary.py
+inputModule305:
+  class: File
+  path: python/chemotherapy-medication-chlorambucil---primary.py
+inputModule306:
+  class: File
+  path: python/chemotherapy-medication-flupentixol---primary.py
+inputModule307:
+  class: File
+  path: python/chemotherapy-medication-perphenazine---primary.py
+inputModule308:
+  class: File
+  path: python/chemotherapy-medication-capecitabine---primary.py
+inputModule309:
+  class: File
+  path: python/chemotherapy-medication-480mg---primary.py
+inputModule310:
+  class: File
+  path: python/chemotherapy-medication-lederspan---primary.py
+inputModule311:
+  class: File
+  path: python/chemotherapy-medication-fentazin---primary.py
+inputModule312:
+  class: File
+  path: python/chemotherapy-medication-decadron---primary.py
+inputModule313:
+  class: File
+  path: python/chemotherapy-medication-decanoate---primary.py
+inputModule314:
+  class: File
+  path: python/chemotherapy-medication-hydrochloride---primary.py
+inputModule315:
+  class: File
+  path: python/chemotherapy-medication-sulphate---primary.py
+inputModule316:
+  class: File
+  path: python/chemotherapy-medication-hydrocortisone---primary.py
+inputModule317:
+  class: File
+  path: python/chemotherapy-medication-mitobronitol---primary.py
+inputModule318:
+  class: File
+  path: python/chemotherapy-medication-sodium---primary.py
+inputModule319:
+  class: File
+  path: python/chemotherapy-medication-adalimumab---primary.py
+inputModule320:
+  class: File
+  path: python/chemotherapy-medication-prednisolone---primary.py
+inputModule321:
+  class: File
+  path: python/chemotherapy-medication-daunorubicin---primary.py
+inputModule322:
+  class: File
+  path: python/chemotherapy-medication-bexarotene---primary.py
+inputModule323:
+  class: File
+  path: python/chemotherapy-medication-bortezomib---primary.py
+inputModule324:
+  class: File
+  path: python/chemotherapy-medication-crisantaspase---primary.py
+inputModule325:
+  class: File
+  path: python/chemotherapy-medication-trastuzumab---primary.py
+inputModule326:
+  class: File
+  path: python/chemotherapy-medication-tretinoin---primary.py
+inputModule327:
+  class: File
+  path: python/chemotherapy-medication-bevacizumab---primary.py
+inputModule328:
+  class: File
+  path: python/chemotherapy-medication-razoxane---primary.py
+inputModule329:
+  class: File
+  path: python/chemotherapy-medication-mitotane---primary.py
+inputModule330:
+  class: File
+  path: python/chemotherapy-medication-temsirolimus---primary.py
+inputModule331:
+  class: File
+  path: python/chemotherapy-medication-gefitinib---primary.py
+inputModule332:
+  class: File
+  path: python/chemotherapy-medication-alemtuzumab---primary.py
+inputModule333:
+  class: File
+  path: python/chemotherapy-medication-thalidomide---primary.py
+inputModule334:
+  class: File
+  path: python/chemotherapy-medication-interferon---primary.py
+inputModule335:
+  class: File
+  path: python/chemotherapy-medication-natalizumab---primary.py
+inputModule336:
+  class: File
+  path: python/output-cases.py
